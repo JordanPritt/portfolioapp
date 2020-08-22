@@ -115,7 +115,7 @@ app {
     flex-flow: column;
     display: flex;
     margin-top: 10%;
-    min-width: 5em;
+    min-width: 8em;
 }
 
 .interests-text p {
