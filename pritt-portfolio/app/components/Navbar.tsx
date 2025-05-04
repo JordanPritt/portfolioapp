@@ -11,19 +11,19 @@ const Navbar: React.FC = () => {
 
                 <ul className='hidden md:flex items-center gap-6 lg:gap-8 rounded-full px-12 py-3'>
                     <li>
-                        <a className='font-ovo' href="#top">Home</a>
+                        <a className='font-[var(--font-ovo)]' href="#top">Home</a>
                     </li>
                     <li>
-                        <a className='font-ovo' href="#about">About Me</a>
+                        <a className='font-[var(--font-ovo)]' href="#about">About Me</a>
                     </li>
                     <li>
-                        <a className='font-ovo' href="#services">Services</a>
+                        <a className='font-[var(--font-ovo)]' href="#services">Services</a>
                     </li>
                     <li>
-                        <a className='font-ovo' href="#work">My Work</a>
+                        <a className='font-[var(--font-ovo)]' href="#work">My Work</a>
                     </li>
                     <li>
-                        <a className='font-ovo' href="#contact">Contact Me</a>
+                        <a className='font-[var(--font-ovo)]' href="#contact">Contact Me</a>
                     </li>
                 </ul>
 

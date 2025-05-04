@@ -22,7 +22,7 @@ export const metadata = {
 export default function RootLayout({children}: { children: React.ReactNode }) {
     return (
         <html lang="en" className={`${outfit.variable} ${ovo.variable}`}>
-        <body className="font-outfit antialiased">{children}</body>
+        <body className="font-[var(--font-outfit)] antialiased">{children}</body>
         </html>
     );
 }
