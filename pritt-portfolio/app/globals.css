@@ -11,3 +11,7 @@
     --dark-hover: #2a004a;
     --dark-theme: #11001f;
 }
+
+body {
+    font-family: var(--font-outfit), sans-serif;
+}
